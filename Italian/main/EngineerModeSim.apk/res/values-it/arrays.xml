@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Input_mode">
+        <item>Input dell\'utente</item>
+        <item>Leggere su SIM</item>
+    </string-array>
+</resources>

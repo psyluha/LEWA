@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Connessione dati assente %s min.</item>
+        <item quantity="one">Connessione dati assente %s min.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefono passa alla richiamata di emergenza tra %s minuti. In questa modalità, non è possibile utilizzare le applicazioni per consentire il trasferimento dei dati. Uscire?</item>
+        <item quantity="one">Telefono passa alla richiamata di emergenza tra %s minuti. In questa modalità, non è possibile utilizzare le applicazioni per consentire il trasferimento dei dati. Uscire?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">L\'azione selezionata non è disponibile nella modalità di chiamata di emergenza. Il telefono rimane in questa modalità per %s min. Uscire?</item>
+        <item quantity="one">L\'azione selezionata non è disponibile nella modalità di chiamata di emergenza. Il telefono rimane in questa modalità per %s min. Uscire?</item>
+    </plurals>
+</resources>

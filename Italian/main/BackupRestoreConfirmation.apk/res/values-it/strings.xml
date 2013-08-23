@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name = "backup_confirm_title">backup completo</string>
+<string name = "restore_confirm_title">Ripristino completato</string>
+<string name = "backup_confirm_text">"richiesta backup di tutti i dati su un computer collegato. Consentire? Se non ha chiesto questo, non consentire l\'operazione. "</string>
+<string name = "allow_backup_button_label">eseguire il backup dei dati</string>
+<string name = "deny_backup_button_label">non creare backup</string>
+<string name = "restore_confirm_text">"collegata le richieste del computer per ripristinare tutti i dati. Consentire? Se non hai chiesto questo, non consentire l\'operazione perché essa sostituirà tutti i dati su questo dispositivo. "</string>
+<string name = "allow_restore_button_label">ripristino dati</string>
+<string name = "deny_restore_button_label">ripristinare</string>
+<string name = "current_password_text">inserire la password per il backup:</string>
+<string name = "device_encryption_restore_text">Digitare una password per crittografare il dispositivo</string>
+<string name = "device_encryption_backup_text">Inserisci una password per crittografare e archiviare i backup</string>
+<string name = "backup_enc_password_text">Inserisci una password per crittografare tutti i dati di backup. Se la casella viene lasciata vuota, verrà utilizzato la password attuale:</string>
+<string name = "backup_enc_password_optional">per crittografare tutti i dati di backup per inserire la password:</string>
+<string name = "restore_enc_password_text">Se i dati recuperati vengono crittografati, digitare la password:</string>
+<string name = "toast_backup_started">backup...</string>
+<string name = "toast_backup_ended">backup completato</string>
+<string name = "toast_restore_started">Ripristino...</string>
+<string name = "toast_restore_ended">Ripristino completato</string>
+<string name = "toast_timeout">timeout scaduto</string>
+</resources>

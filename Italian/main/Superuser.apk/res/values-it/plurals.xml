@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="restore_complete">
+    <item quantity="other">%1$d applicazioni con i dati ripristinati</item>
+    <item quantity="one">Una\'applicazione e i dati vengono recuperati</item>
+</plurals>
+<plurals name="pref_logs_deleted">
+     <item quantity="other">%1$d elementi rimossi dall\'elenco</item>
+     <item quantity="one">Un elemento rimosso dall\'archivio</item>
+     </plurals>
+     <plurals name="pin_incorrect_try">
+         <item quantity="other">Errato - ancora %1$d tentativi</item>
+         <item quantity="one">Ultima possibilità</item>
+     </plurals>
+     <plurals name="malicious_apps_message1">
+         <item quantity="other">I seguenti pacchetti sono stati segnati come dannoso:</item>
+         <item quantity="one">Il seguente pacchetto è stato segnato come minaccia informatica:</item>
+    </plurals>
+</resources>

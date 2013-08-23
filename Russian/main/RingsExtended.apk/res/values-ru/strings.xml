@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Расшир. звонок</string>
+    <string name="silentLabel">Тихо</string>
+    <string name="defaultRingtoneLabel">Рингтон по умолчанию</string>
+    <string name="existingRingtoneLabel">Текущий рингтон</string>
+    <string name="help">Помощь</string>
+    <string name="infoTitle">Помощь по программе</string>
+    <string name="infoText"><b>Добро пожаловать в расширенный звонок!</b>" 
+
+Это не то приложение, которое запускается напрямую, но оно доступно, когда Вы выбираете рингтоны на звонок и уведомления в других приложениях. 
+
+Места, где оно может быть использовано: 
+
+- Выбор рингтона на звонок и уведомление по умолчанию в системных настройках. 
+- Выбор отдельного рингтона на контакт в записной книжке. 
+- Выбор рингтона уведомления для \"нового письма\" в приложении для почты. 
+- Выбор рингтона уведомления \"новое сообщение\" в приложении для SMS/MMS. 
+- И многое другое! 
+
+Когда Вы столкнетесь с выбором в том месте, где может быть использовано это приложение, Вы увидите запрос на запуск. Просто выберите "Расшир. звонок" и все! 
+
+Чтобы сделать приложение для выбора по умолчанию, просто нажмите кнопку "Всегда" вместо "Только сейчас".</string>
+    <string name="soundSettings">Настройки звука</string>
+    <string name="done">ОК</string>
+    <string name="musicPickerName">Расшир. звонок</string>
+    <string name="musicPickerTitle">Музыка - выбор трека</string>
+    <string name="headerRingtones">РИНГТОНЫ</string>
+    <string name="headerOtherRingtones">ДРУГИЕ РИНГТОНЫ</string>
+    <string name="headerOtherMedia">ДРУГИЕ МЕДИА ПРИЛОЖЕНИЯ</string>
+    <string name="labelBuiltinRingtones">Встроенные рингтоны</string>
+    <string name="labelMediaRingtones">Медиа-рингтоны</string>
+    <string name="menuSearch">Поиск</string>
+    <string name="loading">Загрузка</string>
+    <string name="noMusic">"Нет музыкальных файлов или
+SD-карта отсутствует."</string>
+    <string name="noMatchingMusic">Нет подходящей музыки.</string>
+    <string name="searchHint">Поиск музыки</string>
+    <string name="sortByTrack">Треки</string>
+    <string name="sortByAlbum">Альбомы</string>
+    <string name="sortByArtist">Артисты</string>
+    <string name="sortByDuration">Длительность</string>
+    <string name="unknownArtistName">(неизвестный артист)</string>
+    <string name="unknownAlbumName">(неизвестный альбом)</string>
+    <string name="durationformat">%2$d:%5$02d</string>
+    <string name="alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

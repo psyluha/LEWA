@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Калибровка G-сенсора</string>
+    <string name="reset">Сброс</string>
+    <string name="not_supported">Ориентация не поддерживается</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="ok">ОК</string>
+    <string name="calibrate">Калибровка</string>
+    <string name="calibrate_info">Нажмите Меню для калибровки ...</string>
+    <string name="calibrate_title">Калибровка телефона</string>
+    <string name="calibrate_message">"Установите телефон на любое ребро или положите экраном вверх на плоскую горизонтальную поверхность, затем нажмите на кнопку Калибровка.
+
+Или нажмите Сброс для восстановления значений по умолчанию."</string>
+    <string name="calibrate_again_title">Вы должны сделать повторную калибровку</string>
+    <string name="calibrate_again_message">Для измения требуется повторная калибровка телефона</string>
+    <string name="calibrate_saved">Пользовательская калибровка сохранена!</string>
+    <string name="calibrate_failed">Калибровка не удалась!</string>
+    <string name="calibrate_restored">Восстановлены значения калибровки по умолчанию!</string>
+    <string name="preferences">Настройки</string>
+    <string name="preference_show_angle">Угол/наклон</string>
+    <string name="preference_show_angle_summary">Отображение значений угла/наклона на экране</string>
+    <string name="preference_display_type">Стиль отображения</string>
+    <string name="preference_sound">Звуковые эффекты</string>
+    <string name="preference_sound_summary">Воспроизведение звуков при калибровке</string>
+    <string name="preference_lock">Блокировка</string>
+    <string name="preference_lock_summary">Разрешить приложению блокировать ориентацию</string>
+    <string name="preference_viscosity">Вязкость</string>
+    <string name="preference_economy">Экономный режим</string>
+    <string name="preference_economy_summary">"Менее плавная анимация,
+но экономится заряд батареи"</string>
+    <string name="angle">Угол</string>
+    <string name="lock_info">Нажмите, чтобы заблокировать ориентацию</string>
+    <string name="inclination">Наклон</string>
+    <string name="roof_pitch">Крыша</string>
+    <string name="roof_pitch_summary">Дюйм подъема на фут в перспективе</string>
+    <string name="angle_summary">Угол в градусах</string>
+    <string name="inclination_summary">Наклон в процентах</string>
+    <string name="preference_sensor">Тип датчика</string>
+    <string name="orientation">G-сенсор</string>
+    <string name="accelerometer">Акселерометр</string>
+    <string name="orientation_sensor">G-сенсор</string>
+    <string name="accelerometer_sensor">Акселерометр</string>
+    <string name="orientation_summary">"G-сенсор
+Чувствительность зависит от телефона"</string>
+    <string name="accelerometer_summary">"Акселерометр
+Точно, но очень высокая чувствительность"</string>
+    <string name="viscosity_low">Низкая</string>
+    <string name="viscosity_medium">Средняя</string>
+    <string name="viscosity_high">Высокая</string>
+    <string name="viscosity_low_summary">"При низкой вязкости
+пузырек движется быстро"</string>
+    <string name="viscosity_medium_summary">"При средней вязкости
+пузырек движется нормально"</string>
+    <string name="viscosity_high_summary">"При высокой вязкости
+пузырек движется медленно"</string>
+    <string name="config_switch_vertically">Обратить вертикально</string>
+    <string name="config_switch_horizontally">Обратить горизонтально</string>
+    <string name="config_rotate_axis">Поворот оси</string>
+    <string name="low">НИЗКИЙ</string>
+    <string name="medium">СРЕДНИЙ</string>
+    <string name="high">ВЫСОКИЙ</string>
+</resources>

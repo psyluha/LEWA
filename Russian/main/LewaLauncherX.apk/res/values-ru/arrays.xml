@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_transition_effect_values">
+        <item>Standard</item>
+        <item>NoOverShoot</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Стандарт</item>
+        <item>Стандарт (без отскока)</item>
+        <item>Планшет</item>
+        <item>Приближение</item>
+        <item>Удаление</item>
+        <item>Вращение вверх</item>
+        <item>Вращение вниз</item>
+        <item>Куб внутри</item>
+        <item>Куб снаружи</item>
+        <item>Стек</item>
+    </string-array>
+    <string-array name="screen_layout">
+        <item>4 * 4</item>
+        <item>4 * 5</item>
+        <item>4 * 6</item>
+        <item>5 * 5</item>
+        <item>5 * 6</item>
+    </string-array>
+    <string-array name="screen_layout_value">
+        <item>4|4</item>
+        <item>4|5</item>
+        <item>4|6</item>
+        <item>5|5</item>
+        <item>5|6</item>
+    </string-array>
+    <array name="sort_class" />
+    <string-array name="wallpapers">
+        <item>wallpaper</item>
+        <item>wallpaper_countryside</item>
+        <item>wallpaper_grass</item>
+        <item>wallpaper_illusion</item>
+        <item>wallpaper_lake</item>
+    </string-array>
+</resources>

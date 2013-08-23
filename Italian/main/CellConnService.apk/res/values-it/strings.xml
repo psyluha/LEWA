@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="confirm_radio_title">SIM disattivata</string>
+    <string name="confirm_radio_msg">%1$s è spenta. Vuoi attivare questa carta SIM?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Modalità aereo è attivata e</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s è ora spenta. Vuoi disattivare la modalità aereo e attivare questa scheda SIM?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Modalità aereo è attivata. Vuoi disattivare la modalità aereo?</string>
+    <string name="confirm_radio_msg_single">Modalità aereo attiva, vuoi disattivare?</string>
+    <string name="confirm_pin_title">SIM bloccata</string>
+    <string name="confirm_pin_msg">La scheda SIM selezionata è bloccata. Si prega di sbloccarla prima.</string>
+    <string name="confirm_simmelock_msg">Lo slot SIM selezionato è bloccato. Si prega di sbloccarlo prima.</string>
+    <string name="confirm_fdn_title">FDN abilitato</string>
+    <string name="confirm_fdn_msg">I numeri memorizzati sono stati attivati.</string>
+    <string name="confirm_roaming_title">Avviso Roaming</string>
+    <string name="confirm_roaming_msg">La scheda SIM che si sta per utilizzare è ora in roaming. Nessuna SIM locale è disponibile. Vuoi continuare?</string>
+    <string name="confirm_roaming_withPrefer_msg">La scheda SIM che si sta per utilizzare è ora in roaming. Vuoi continuare con la SIM locale?</string>
+    <string name="confirm_roaming_lbutton">Continuare</string>
+    <string name="confirm_roaming_rbutton">Annullare</string>
+    <string name="confirm_roamingWithPrefer_lbutton">SIM Locale</string>
+    <string name="confirm_roamingWithPrefer_rbutton">SIM Roaming</string>
+    <string name="confirm_radio_lbutton">Attivare</string>
+    <string name="confirm_unlock_lbutton">Sbloccare</string>
+    <string name="confirm_unlock_fail">Operazione annullata</string>
+    <string name="confirm_turnon_radio_fail">Operazione annullata</string>
+    <string name="confirm_permit_roaming_fail">Hai annullato questa azione sulla scheda SIM in roaming</string>
+    <string name="confirm_sim_locked_message">Scheda SIM definitivamente bloccata</string>
+    <string name="confirm_slot_locked_message">Slot SIM definitivamente bloccato</string>
+    <string name="confrim_simmelock_title">Blocco della scheda SIM ME</string>
+</resources>

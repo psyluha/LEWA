@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">1 giorno</item>
+    </plurals>
+    <plurals name="firewall_list_title">
+        <item quantity="other">%d applicazioni utilizzano Internet</item>
+        <item quantity="one">1 l\'applicazione utilizza Internet</item>
+    </plurals>
+</resources>

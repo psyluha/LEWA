@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">1 brano</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d brani aggiunti alla playlist</item>
+        <item quantity="one">1 brano aggiunti alla playlist</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d brani sono stati rimossi</item>
+        <item quantity="one">1 brano eè stato rimosso</item>
+    </plurals>
+    <plurals name="NNNsearchsong">
+        <item quantity="other">cercare %d brani</item>
+        <item quantity="one">cercare 1 brano</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d cartelle</item>
+        <item quantity="one">1 cartella</item>
+    </plurals>
+</resources>

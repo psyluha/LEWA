@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="sip_call_options_entries">
+        <item>@string/sip_call_options_entry_1</item>
+        <item>@string/sip_call_options_entry_2</item>
+        <item>@string/sip_call_options_entry_3</item>
+    </string-array>
+    <string-array name="sip_call_options_wifi_only_entries">
+        <item>@string/sip_call_options_wifi_only_entry_1</item>
+        <item>@string/sip_call_options_entry_2</item>
+        <item>@string/sip_call_options_entry_3</item>
+    </string-array>
+    <string-array name="sip_call_options_values">
+        <item>@string/sip_always</item>
+        <item>@string/sip_address_only</item>
+        <item>@string/sip_ask_me_each_time</item>
+    </string-array>
+    <string-array name="phone_type_values">
+        <item>@string/pstn_phone</item>
+        <item>@string/internet_phone</item>
+    </string-array>
+    <string-array name="sip_send_keepalive_options">
+        <item>@string/sip_system_decide</item>
+        <item>@string/sip_always_send_keepalive</item>
+    </string-array>
+    <array name="incoming_call_widget_3way_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@drawable/ic_lockscreen_text</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <string-array name="incoming_call_widget_3way_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@string/description_target_send_sms</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
+    </string-array>
+    <array name="incoming_call_widget_3way_direction_descriptions">
+        <item>@android:string/description_direction_right</item>
+        <item>@android:string/description_direction_up</item>
+        <item>@android:string/description_direction_left</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_2way_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@null</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_2way_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@null</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
+    </array>
+    <array name="incoming_call_widget_2way_direction_descriptions">
+        <item>@android:string/description_direction_right</item>
+        <item>@null</item>
+        <item>@android:string/description_direction_left</item>
+        <item>@null</item>
+    </array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Prima volta</item>
+        <item>Sempre</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>Guida</item>
+        <item>Tedesco</item>
+        <item>Inglese</item>
+        <item>Italiano</item>
+        <item>Francese</item>
+        <item>Spagnolo</item>
+        <item>Olandese</item>
+        <item>Svedese</item>
+        <item>Danese</item>
+        <item>Portoghese</item>
+        <item>Finlandese</item>
+        <item>Norvegese</item>
+        <item>Greco</item>
+        <item>Turco</item>
+        <item>Ungherese</item>
+        <item>Polacco</item>
+        <item>Altro</item>
+        <item>Ceco</item>
+        <item>Ebraico</item>
+        <item>Arabo</item>
+        <item>Russo</item>
+        <item>Islandese</item>
+    </string-array>
+    <string-array name="language_list_id">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+    </string-array>
+    <string-array name="vt_replace_local_video_entries">
+        <item>@string/vt_pic_replace_local_default</item>
+        <item>@string/vt_pic_replace_local_freezeme</item>
+        <item>@string/vt_pic_replace_local_mypic</item>
+    </string-array>
+    <string-array name="vt_replace_local_video_entries2">
+        <item>@string/vt_pic_replace_local_default</item>
+        <item>@string/vt_pic_replace_local_mypic</item>
+    </string-array>
+    <string-array name="vt_replace_local_video_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="vt_replace_local_video_values2">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="vt_mt_local_video_display_entries">
+        <item>@string/vt_incoming_showme_always</item>
+        <item>@string/vt_incoming_showme_ask</item>
+        <item>@string/vt_incoming_showme_disable</item>
+    </string-array>
+    <string-array name="vt_mt_local_video_display_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="vt_incall_setting_local_video_effect_entries">
+        <item>@string/pref_camera_coloreffect_entry_none</item>
+        <item>@string/pref_camera_coloreffect_entry_mono</item>
+        <item>@string/pref_camera_coloreffect_entry_sepia</item>
+        <item>@string/pref_camera_coloreffect_entry_negative</item>
+        <item>@string/pref_camera_coloreffect_entry_solarize</item>
+        <item>@string/pref_camera_coloreffect_entry_posterize</item>
+        <item>@string/pref_camera_coloreffect_entry_aqua</item>
+        <item>@string/pref_camera_coloreffect_entry_pastel</item>
+        <item>@string/pref_camera_coloreffect_entry_mosaic</item>
+        <item>@string/pref_camera_coloreffect_entry_redtint</item>
+        <item>@string/pref_camera_coloreffect_entry_bluetint</item>
+        <item>@string/pref_camera_coloreffect_entry_greentint</item>
+        <item>@string/pref_camera_coloreffect_entry_blackboard</item>
+        <item>@string/pref_camera_coloreffect_entry_whiteboard</item>
+        <item>@string/pref_camera_coloreffect_entry_sepiablue</item>
+        <item>@string/pref_camera_coloreffect_entry_sepiagreen</item>
+    </string-array>
+    <string-array name="vt_incall_setting_local_video_effect_values">
+        <item>None</item>
+        <item>Mono</item>
+        <item>Sepia</item>
+        <item>Negative</item>
+        <item>Solarize</item>
+        <item>Posterize</item>
+        <item>Aqua</item>
+        <item>Pastel</item>
+        <item>Mosaic</item>
+        <item>Red-tint</item>
+        <item>Blue-tint</item>
+        <item>Green-tint</item>
+        <item>Blackboard</item>
+        <item>Whiteboard</item>
+        <item>Sepiablue</item>
+        <item>Sepiagreen</item>
+    </string-array>
+    <string-array name="vt_incall_video_setting_entries">
+        <item>@string/vt_local_video_zoom</item>
+        <item>@string/vt_local_video_brightness</item>
+        <item>@string/vt_local_video_contrast</item>
+        <item>@string/vt_local_video_effect</item>
+        <item>@string/vt_local_video_nightmode</item>
+        <item>@string/vt_peer_video_quality</item>
+    </string-array>
+    <string-array name="vt_incall_video_setting_entries2">
+        <item>@string/vt_peer_video_quality</item>
+    </string-array>
+    <string-array name="vt_incall_video_setting_local_nightmode_entries">
+        <item>@string/alert_dialog_yes</item>
+        <item>@string/alert_dialog_no</item>
+    </string-array>
+    <string-array name="vt_incall_video_setting_local_nightmode_entries2">
+        <item>@string/alert_dialog_no</item>
+    </string-array>
+    <string-array name="vt_incall_video_setting_peer_quality_entries">
+        <item>@string/vt_peer_video_quality_normal</item>
+        <item>@string/vt_peer_video_quality_sharp</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Dual mode</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Dual mode</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>Auto</item>
+        <item>Solo rete 3G</item>
+        <item>Solo rete 2G</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (modalità automatica)</item>
+        <item>Solo TD-SCDMA</item>
+        <item>Solo GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values_cmcc">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>Auto</item>
+        <item>Solo rete</item>
+    </string-array>
+    <string-array name="umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Spento.</item>
+        <item>Tutti i numeri</item>
+        <item>Lista di rifiuto automatico</item>
+    </string-array>
+    <string-array name="call_reject_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Contatti</item>
+        <item>Registro delle chiamate</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Impostazioni di rete predefinite</item>
+        <item>Nascondi il numero</item>
+        <item>Mostra il numero</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>Default</item>
+        <item>Nascondi</item>
+        <item>Mostra</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Solo EvDo</item>
+        <item>CDMA senza EvDo</item>
+        <item>CDMA/EvDo (modalità auto)</item>
+        <item>GSM/WCDMA (modalità auto)</item>
+        <item>Solo rete 3G</item>
+        <item>Solo rete 2G</item>
+        <item>GSM/WCDMA (preferenza)</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE/CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_lte">
+        <item>7</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inglese</item>
+        <item>Francese</item>
+        <item>Spagnolo</item>
+        <item>Giapponese</item>
+        <item>Coreano</item>
+        <item>Cinese</item>
+        <item>Ebraico</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Solo di casa</item>
+        <item>Automaticamente</item>
+    </string-array>
+    <string-array name="cdma_system_select_values">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Telescrivente off</item>
+        <item>Telescrivente piena</item>
+        <item>Telescrivente con la capacità di ascoltare l\'altra parte</item>
+        <item>Telescrivente per trasmettere la voce</item>
+    </string-array>
+    <string-array name="tty_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Solito</item>
+        <item>Lungo</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Sempre</item>
+        <item>Solo in modalità silenziosa</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>Sempre</item>
+        <item>Silenzioso</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="dialpad_tone_types">
+        <item>Tono</item>
+        <item>Piano</item>
+        <item>Chitarra</item>
+    </string-array>
+    <string-array name="dialpad_tone_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_001d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_001e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_002c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_002b">false</item>
+</resources>

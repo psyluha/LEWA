@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_automatic_action_entries">
+         <item>Chiedimi</item>
+         <item>Nega</item>
+         <item>Consenti</item>
+     </string-array>
+     <string-array name="pref_status_icon_type_entries">
+         <item>Circle</item>
+         <item>Smiley</item>
+     </string-array>
+     <string-array name="pref_date_format_entries">
+         <item>Sistema</item>
+         <item>12/31/2011</item>
+         <item>31/12/2011</item>
+         <item>2011/12/31</item>
+     </string-array>
+     <string-array name="pref_notifications_type_entries">
+         <item>Notifica Popup</item>
+         <item>Barra di stato</item>
+     </string-array>
+     <string-array name="pref_toast_location_entries">
+         <item>Default</item>
+         <item>Top</item>
+         <item>Centrato</item>
+         <item>Inferiore</item>
+    </string-array>
+</resources>

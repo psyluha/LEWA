@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registratore</string>
+    <string name="record_your_message">Registrare un messaggio</string>
+    <string name="message_recorded">Messaggio registrato</string>
+    <string name="review_message">Visualizza messaggio</string>
+    <string name="recording">Record</string>
+    <string name="recording_stopped"> smesso di registrazione</string>
+    <string name="storage_is_full">Memoria è piena</string>
+    <string name="max_length_reached"> raggiunto la lunghezza massima</string>
+    <string name="insert_sd_card"> Inserire la scheda SD</string>
+    <string name="min_available">Rimanente %d min.</string>
+    <string name="sec_available">Rimanenti %d secondi.</string>
+    <string name="accept">Utilizzare questa registrazione</string>
+    <string name="discard">Annulla</string>
+    <string name="button_ok">ОК</string>
+    <string name="timer_format_with_hour" formatted="false">%02d:%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Le tue registrazioni</string>
+    <string name="audio_db_album_name"> Recordings</string>
+    <string name="audio_db_playlist_name">Playlist</string>
+    <string name="error_sdcard_access"> Impossibile accedere alla SD-card</string>
+    <string name="error_app_internal">Errore interno</string>
+    <string name="error_mediadb_new_record">Non salva l\'audio</string>
+    <string name="error_app_recorder_occupied">Registratore utilizzato da un\'altra applicazione.</string>
+    <string name="unknown_artist_name">Artista sconosciuto</string>
+    <string name="error_app_failed_title">Scrivi Errore</string>
+    <string name="tell_save_record_success">Salvato</string>
+    <string name="save_record">Salva</string>
+    <string name="spaceIsLow_content">Sulla scheda SD lo spazio è esaurito. Interrompere la registrazione o eliminare i file dalla scheda SD.</string>
+    <string name="cancel">Annulla</string>
+    <string name="rename_record_file">Rinominare il file</string>
+    <string name="file_already_exists">File esiste già </string>
+    <string name="select_recording_format">Selezionare la registrazione</string>
+    <string name="recording_format_high">Alto</string>
+    <string name="recording_format_mid">Media</string>
+    <string name="recording_format_low">Basso</string>
+    <string name="three_mins_avail_total">3 minuti disponibili</string>
+    <string name="recorder_can_not_be_used">Registratore non può essere utilizzato.</string>
+    <string name="alert_delete_multiple">Queste voci verranno eliminate</string>
+    <string name="alert_delete_single">Questo record viene cancellato</string>
+    <string name="ok">OK</string>
+    <string name="delete">Elimina</string>
+    <string name="deleting">Rimozione</string>
+    <string name="no_recording_file">(no file)</string>
+    <string name="recording_file_list">Elenco file</string>
+    <string name="recording_paused">Record sospeso</string>
+    <string name="record_title">Record</string>
+    <string name="play_title">Play</string>
+    <string name="time_zero">00:00</string>
+    <string name="delete_selected">Iscritto il %s</string>
+    <string name="duration_timer_format_with_hour" formatted="false">%02dH%02dM%02dS</string>
+    <string name="duration_timer_format_without_hour" formatted="false">%02dM%02dS</string>
+    <string name="is_recording_can_not_use_play_function">Durante la registrazione, non è possibile utilizzare la riproduzione.</string>
+    <string name="is_playing_can_not_use_record_function">Riproduzione di un file audio, non è possibile utilizzare la registrazione.</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="calendar_storage">Archiviazione Calendario</string>
+    <string name="upgrade_msg">Aggiornamento database Calendario</string>
+    <string name="calendar_default_name">Impostazione predefinita</string>
+    <string name="calendar_info">Info Calendario</string>
+    <string name="calendar_info_error">Errore</string>
+    <string name="calendar_info_no_calendars">Nessun calendario</string>
+    <string name="calendar_info_events">Eventi: %1$d</string>
+    <string name="calendar_info_events_dirty">Eventi: %1$d; Non salvati: %2$d</string>
+    <string name="provider_label">Calendario</string>
+    <string name="debug_tool_delete_button">Elimina ora</string>
+    <string name="debug_tool_start_button">Avvia</string>
+    <string name="debug_tool_message">Stai per 1) creare una copia del database di calendario sulla scheda SD o sull\'archivio USB che Ã¨ leggibile da qualsiasi applicazione e 2) inviare tale copia tramite email. Ricorda di eliminarla subito dopo aver effettuato la copia dal dispositivo o subito dopo la ricezione dell\'email..</string>
+    <string name="debug_tool_email_sender_picker">Seleziona un programma per inviare il file</string>
+    <string name="debug_tool_email_subject">Db Calendario allegato</string>
+    <string name="debug_tool_email_body">In allegato Ã¨ presente il database del mio calendario con tutti i miei appuntamenti e le mie informazioni personali. Trattare con cura.</string>
+</resources>

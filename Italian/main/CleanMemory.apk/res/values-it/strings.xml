@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<string name = "app_name">pulitura</string> 
+<string name="button">Hello world!</string> 
+<string name="menu_settings">impostazioni</string> 
+<string name="title_activity_config">ConfigActivity</string>
+<string name="result_format">Chiuso %1$d applicazioni pubblicato %2$s</string>
+<string name="ottimizzato">Ottimizzato</string>
+</resources>

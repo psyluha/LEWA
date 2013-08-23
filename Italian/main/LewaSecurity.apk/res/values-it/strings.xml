@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Security Center</string>
+    <string name="app_virus">Anti Virus</string>
+    <string name="app_clearance">Clearing memoria</string>
+    <string name="app_speed">Task Manager</string>
+    <string name="app_autostart">Avvio</string>
+    <string name="app_antitheft">Antitheft</string>
+    <string name="app_permmanager">Gestione autorizzazioni</string>
+    <string name="app_intercept">Intercettazione</string>
+    <string name="app_netmgr">Misurazione dati</string>
+    <string name="app_push">Gestione notifica push</string>
+    <string name="first_use1">Non verificate</string>
+    <string name="first_use2">Si prega di eseguire una scansione in questo momento</string>
+    <string name="after_use1">"Verificato
+%1$s"</string>
+    <string name="after_use2">"Base Antivirus
+%1$s"</string>
+    <string name="after_no_version">Non aggiornato</string>
+</resources>

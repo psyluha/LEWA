@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<string name="app_name">Cleaning System</string>
+<string name="menu_settings">Impostazioni</string>
+<string name="calculate_sdcard">Controllo della scheda SD</string>
+<string name="calculate_size">Stima dimensione ... </string>
+<string name="clean_sdcard">Pulizia scheda SD</string>
+<string name="clean_sdcard_completed">Pulizia scheda SD è completata</string>
+<string name="clean_log_file_name">Log Files</string>
+<string name="clean_app_sdcard_cache_name">Appendice di cache sdcard</string>
+<string name="clean_sdcard_cache_name">Il file di cache</string>
+<string name="clean_sdcard_empty_file_name">File vuoto</string>
+<string name="clean_sdcard_mtk_log_name">MTK sdcard log</string>
+<string name="clean_sdcard_thum_file_name">Thumbnail file</string>
+</resources>

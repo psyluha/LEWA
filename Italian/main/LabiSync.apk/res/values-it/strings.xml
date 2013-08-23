@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">ContactSync</string>
+    <string name="sync_success">Sincronizzare completata!</string>
+    <string name="sync_fail">Sincronizzazione non riuscita, si prega di riprovare più tardi!</string>
+    <string name="sync_title">Sincronizzare i contatti</string>
+    <string name="syncing">Sincronizzazione, attendere prego...</string>
+    <string name="sync_format">"Sincronizzato %1$s contatti (totale %2$s contatti)"</string>
+    <string name="sync_warning_info">Sincronizzare i contatti. Continuare?</string>
+    <string name="recovery_success">Ripristino completato!</string>
+    <string name="recovery_fail">Ripristino non riuscito, si prega di riprovare più tardi!</string>
+    <string name="recovering">Ripristino, attendere prego...</string>
+    <string name="recover_title">Ripristino dei contatti</string>
+    <string name="recover_format">"Ripristinato %1$s contatti (totale %2$s contatti)"</string>
+    <string name="recover_warning_info">Il ripristino dei contatti rimuoverà i vostro attuali contatti dal telefono cellulare. Continuare?</string>
+    <string name="no_network">Nessuna rete disponibile, si prega di riprovare più tardi.</string>
+    <string name="no_contacts_oncloud">Nessun contatto.</string>
+</resources>

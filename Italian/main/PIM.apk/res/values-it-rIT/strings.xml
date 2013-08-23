@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="local_device_account_name">Dispositivo</string>
+    <string name="name_given">Nome</string>
+    <string name="name_family">Cognome</string>
+    <string name="display_options_sort_by_given_name">Ordina per nome</string>
+    <string name="display_options_sort_by_family_name">Ordina per cognome</string>
+    <string name="display_options_view_given_name_first">Visualizza prima il nome</string>
+    <string name="display_options_view_family_name_first">Visualizza prima il cognome</string>
+    <string name="deleteCallLogConfirmation_title">Eliminare chiamate?</string>
+    <string name="deleteCallLogConfirmation_message">Eliminare le chiamate selezionate?</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>L\'alimentazione viene attivata a meno di un 1 minuto.</item>
+        <item>Selettore di modalità è impostato su %1$s da ora.</item>
+        <item>L\'inclusione è stabilito attraverso %2$s dopo.</item>
+        <item>Selettore di modalità è impostato su %1$s e %2$s da ora.</item>
+        <item>L\'inclusione è stabilito attraverso %3$s dopo.</item>
+        <item>Selettore di modalità è impostato su %1$s e %3$s da ora.</item>
+        <item>L\'inclusione è stabilito attraverso %2$s e %3$s dopo.</item>
+        <item>Selettore di modalità è impostato su %1$s, %2$s e %3$s da ora.</item>
+        <item>L\'alimentazione si spegne dopo meno di 1 minuto.</item>
+        <item>Selettore di modalità è impostato su %1$s da ora.</item>
+        <item>L\'inclusione è stabilito attraverso %2$s dopo.</item>
+        <item>Selettore di modalità è impostato su %1$s e %2$s da ora.</item>
+        <item>L\'inclusione è stabilito attraverso %3$s dopo.</item>
+        <item>Selettore di modalità è impostato su %1$s e %3$s da ora.</item>
+        <item>L\'inclusione è stabilito attraverso %2$s e %3$s dopo.</item>
+        <item>Selettore di modalità è impostato su %1$s, %2$s, e %3$s da ora.</item>
+    </string-array>
+</resources>

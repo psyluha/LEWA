@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="selectNone">Cancellazione</string>
+    <string name="config_deviceKeyHandlerLib" />
+    <string name="config_deviceKeyHandlerClass" />
+    <string name="config_longPressOnMenuAction">android.intent.action.ASSIST</string>
+    <string name="reboot_system">Riavvia il telefono</string>
+    <string name="global_action_screenshot">Screen shot</string>
+    <string name="global_action_toggle_silent_mode">Modalità silenziosa</string>
+    <string name="global_action_screenshot_status">Premere contemporaneamente power e volume giù per gli screenshot</string>
+    <string name="reboot_reboot">Riavvia</string>
+    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_bootloader">Bootloader</string>
+    <string name="reboot_bootmenu">Bootmenu</string>
+    <string name="reboot_fastboot">Fastboot</string>
+    <string name="reboot_download">Download</string>
+    <string name="reboot_progress">Riavvio...</string>
+    <string name="reboot_confirm">Il telefono verrà riavviato.</string>
+    <string name="global_action_reboot">Reboot</string>
+    <string name="lockscreen_discharging">Batteria (%d%%)</string>
+    <string name="progress_scanning">Scansione</string>
+    <string name="phone_goggles_problem_count">Problema #%1$d:</string>
+    <string name="phone_goggles_description">Risolvo %1$d problemi in meno di %2$d secondi, poi continuo la comunicazione..</string>
+    <string name="permlab_revokePermissions">Visualizza e modifica permessi revocati. Da non usare per normali applicazioni.</string>
+    <string name="permdesc_revokePermissions">Visualizza e modifica permessi revocati. Da non usare per normali applicazioni.</string>
+    <string name="app_killed_message">L\'applicazione verrà chiusa</string>
+    <string name="back_killed_message">Terminata</string>
+    <string name="lock_screen_miss_call">%1$d chiamata persa</string>
+    <string name="lock_screen_new_msg">%1$d nuovi messaggi</string>
+    <string name="lock_screen_miss_calls">%1$d chiamate perse</string>
+    <string name="lock_screen_new_msgs">%1$d nuovi messaggi</string>
+    <string name="lock_screen_drag_down">Trascina in basso per sbloccare</string>
+    <string name="lock_screen_drag_here">Trascina qui per sbloccare</string>
+    <string name="lock_screen_dismiss">Rifiuta</string>
+    <string name="lock_screen_snooze">Snooze</string>
+    <string name="lock_screen_pm">PM</string>
+    <string name="lock_screen_am">AM</string>
+    <string name="fixed_line">Risolto</string>
+    <string name="ringtone_custom">Solito...</string>
+    <string name="ringtone_silent_summary">Discreto</string>
+    <string name="data_usage_warning_body">Attenzione, solo %s sinistra di dati a pacchetto dell\'operatore</string>
+</resources>

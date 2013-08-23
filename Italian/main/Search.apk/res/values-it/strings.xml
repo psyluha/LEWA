@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<string name="app_name">Ricerca</string>
+    <string name="app_setting">Impostazioni di ricerca</string>
+    <string name="app_setting_info"> icerca sorgente</string>
+    <string name="app_setting_about">Chi</string>
+    <string name="system_app">Software di sistema</string>
+    <string name="user_app">Software utente</string>
+    <string name="system_setting">Impostazioni di sistema</string>
+    <string name="web_search">Ricerca su Internet</string>
+    <string name="app_search">Applicazione di ricerca</string>
+    <string name="find_no_associated_app">Programma associato non può essere trovato!</string>
+    <string name="enter_app_error_prefix">Applicazione</string>
+    <string name="enter_app_error_suffix">Era in grado di</string>
+    <string name="web_search_prefix">"Cercando su Internet"</string>
+    <string name="web_search_suffix">"Informazioni correlate"</string>
+    <string name="app_search_prefix">"Cercando su Internet"</string>
+    <string name="app_search_suffix">"Apps correlate"</string>
+    <string name="select_browser">Scelta di un browser per la ricerca di</string>
+    <string name="choose_browser">Selezionare un browser</string>
+    <string name="info_setting_message">Messaggio</string>
+    <string name="info_setting_message_str">Contenuto dei messaggi</string>
+    <string name="info_setting_app">Applicazione</string>
+    <string name="info_setting_app_str">Applicazioni installate</string>
+    <string name="info_setting_image">Foto</string>
+    <string name="info_setting_image_str">Immagine</string>
+    <string name="info_setting_contact">Contatto</string>
+    <string name="info_setting_contact_str">Informazioni contatto</string>
+    <string name="info_setting_music">Giocatore</string>
+    <string name="info_setting_music_str">File musicali</string>
+    <string name="info_setting_setting">Impostazioni di sistema</string>
+    <string name="info_setting_setting_str">Informazioni applicazioni</string>
+    <string name="info_setting_file">Locale</string>
+    <string name="info_setting_file_str">Altri file locali</string>
+    <string name="no_default_browser">Nessun browser di default</string>
+    <string name="sdcard_status_changed_title">Scheda di memoria non è disponibile</string>
+    <string name="sdcard_status_changed_msg">Assicurarsi che la scheda di memoria sia collegata e il telefono sia in modalità di trasferimento file.</string>
+    <string name="type_ok">ОК</string>
+    <string name="no_browser">Nessun browser</string>
+</resources>

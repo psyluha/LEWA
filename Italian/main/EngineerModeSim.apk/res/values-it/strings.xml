@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_label">EM SIM ME Blocco</string>
+<string name="simmelock_name">SIM ME Blocco</string>
+<string name="strInputPassword">Prego inserisci passoword:</string>
+<string name="strConfirm">Conferma</string>
+<string name="strCancel">Annulla</string>
+<string name="strInputChancesleft">Elimina a sinistra:</string>
+<string name="strMCCMNC">MCC+MNC:</string>
+<string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+<string name="strGID1">GID1:</string>
+<string name="strGID2">GID2:</string>
+<string name="strInputPasswordAgain">Inserisci di nuovo la password:</string>
+<string name="strIMSI">IMSI:</string>
+<string name="strAttention">Attenzione</string>
+<string name="strConfirmRemove">Confermi rimozione?</string>
+<string name="srtConfirmPermanUnlock">Confermi sblocco permanente?</string>
+<string name="strYes">Si</string>
+<string name="strLockFail">Blocco fallito!</string>
+<string name="strLockSucceed">Bloccato con successo!</string>
+<string name="strUnlockFail">Sblocco fallito!</string>
+<string name="strUnlockSucceed">Sbloccato con successo!</string>
+<string name="strUserInput">Input dell\'utente</string>
+<string name="strInputMode">Input dall\'utente?</string>
+<string name="strLockNameNetwork">Personalizzazione Rete</string>
+<string name="strLockNameNetworkSub">Personalizzazione Subnet Rete</string>
+<string name="strLockNameService">Personalizzazione fornitore del servizio</string>
+<string name="strLockNameCorporate">Personalizzazione Azienda</string>
+<string name="strLockNameSIM">Personalizzazione SIM</string>
+<string name="strActionNameLock">Blocco</string>
+<string name="strActionNameUnlock">Sblocco</string>
+<string name="strActionNameAddLock">Aggiungi</string>
+<string name="strActionNameRemoveLock">Rimuovi</string>
+<string name="strActionNamePermanentUnlock">Sbocca permanentemente</string>
+<string name="strPasswordLengthIncorrect">4-8 numeri!</string>
+<string name="strQueryFailed">Richiesta fallita!</string>
+<string name="strAddLockFail">Aggiunta blocco fallita!</string>
+<string name="strAddLockSucceed">Aggiunta blocco con successo!</string>
+<string name="strMCCMNCLengthIncorrect">MCC+MNC invalido!</string>
+<string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR invalido!</string>
+<string name="strIMSILengthIncorrect">IMSI invalido!</string>
+<string name="strGID1WRONG">GID1 invalido!</string>
+<string name="strGID2WRONG">GID2 invalido!</string>
+<string name="str_simme_passwords_dont_match">"Passwords non coincidono"</string>
+</resources>

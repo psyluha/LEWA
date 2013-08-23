@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="schedule_power_on_off_settings_title">Schedule incl./OffPower</string>
+    <string name="schedule_power_on_off_time">Time</string>
+    <string name="schedule_power_on_off_repeat">Ripeti</string>
+    <string name="schedule_power_on_off_set">Scheduling inc./Off.Power</string>
+    <string name="schedule_power_on_set">Calendario power on</string>
+    <string name="schedule_power_off_set">Set off in programma</string>
+    <string name="enable_schpwr">Abilita</string>
+    <string name="disable_schpwr">Off</string>
+    <string name="day">1 giorno</string>
+    <string name="days">" %s giorni."</string>
+    <string name="hour">per 1 ora</string>
+    <string name="hours">%s ore.</string>
+    <string name="minute">1 minuto.</string>
+    <string name="minutes">" %s minuti."</string>
+    <string name="every_day">Ogni giorno</string>
+    <string name="never">Mai</string>
+    <string name="done">Terminare</string>
+    <string name="revert">Cancellazione</string>
+    <string name="schpwr_shutdown_message">Telefono spento in %s secondi(s)</string>
+    <string name="schpwr_shutdown_message_second">Telefono spento in %s secondi</string>
+</resources>

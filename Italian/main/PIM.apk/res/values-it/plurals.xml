@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Contatti con numeri di telefono: %d</item>
+        <item quantity="one">1 contatto con numero di telefono</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Visualizza contatti: %d</item>
+        <item quantity="one">Mostra 1 contatto</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Trova contatti: %d</item>
+        <item quantity="one">Trova 1 contatto</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Contatti: %d</item>
+        <item quantity="one">1 contatto</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Uniti %0$d contatti</item>
+        <item quantity="one">Non integrati</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Gruppi: %0$d</item>
+        <item quantity="one">Gruppi: 1</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Contatti: %1$d di %2$s</item>
+        <item quantity="one">Contatto: %1$d di %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Contatti: %1$d</item>
+        <item quantity="one">Contatto: %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Messaggi vocali: %1$d</item>
+        <item quantity="one">Messaggio vocale</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Riviste: %d</item>
+        <item quantity="one">Rivista: 1</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Verranno eliminate %1$s conversazioni</item>
+        <item quantity="one">Una conversazione verrà rimossa</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s Sec</item>
+        <item quantity="one">%s Sec</item>
+        <item quantity="few">%s Sec</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Trovati \"%2$s\": %1$s</item>
+        <item quantity="one">Trovato \"%2$s\": %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Contatti: %1$s</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Visualizza %d report messaggi</item>
+        <item quantity="one">Visualizza %d report messaggio</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Selezionati: %d</item>
+        <item quantity="one">Selezionato: %d</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="zero">%1$d selezionato</item>
+        <item quantity="one">%1$d selezionato</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_0011">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0012">false</item>
+</resources>
+
+
