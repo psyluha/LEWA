@@ -13,7 +13,7 @@
     <string name="title_music">Музыка</string>
     <string name="title_mobile_security">Антивор</string>
     <string name="title_theme_choose">Темы</string>
-    <string name="title_flow_monitoring">Межсет. экран</string>
+    <string name="title_flow_monitoring">Трафик</string>
     <string name="title_electricity_management">Батарея+</string>
     <string name="title_file_management">Проводник</string>
     <string name="title_system">Система</string>
@@ -141,8 +141,8 @@
     <string name="title_flow_monitoring_2">Подробные данные</string>
     <string name="title_flow_monitoring_3">Контроль данных</string>
     <string name="title_flow_monitoring_4">Скорость передачи данных</string>
-    <string name="explain_flow_monitoring_1">Межсетевой экран отслеживает Ваш трафик, синхронизирует его с провайдером (не для СНГ и ЕС) и предупреждает о достижении лимита</string>
-    <string name="explain_flow_monitoring_2">Вы можете просмотреть детализацию трафика в Межсетевом экране</string>
+    <string name="explain_flow_monitoring_1">Приложение Трафик отслеживает Вашу передачу данных, синхронизирует ее с провайдером (не для СНГ и ЕС) и предупреждает о достижении лимита</string>
+    <string name="explain_flow_monitoring_2">Вы можете просмотреть детализацию в приложении Трафик</string>
     <string name="explain_flow_monitoring_3">Всем приложениям можно разграничить доступ по 2G/3G и Wi-Fi</string>
     <string name="explain_flow_monitoring_4">Скорость скачивания может быть отображена в строке уведомления при включении опции "Показывать скорость сети" в настройках строки уведомления</string>
     <string name="title_electricity_management_1">Энергосбережение</string>

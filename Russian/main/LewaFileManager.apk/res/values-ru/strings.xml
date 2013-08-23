@@ -336,4 +336,5 @@
     <string name="name_index_tail">Другие</string>
     <string name="space_limit">Место сохранения недостаточно для вставки</string>
     <string name="file_info_status">Статус</string>
+    <string name="sdcard_io_error">Ошибка SD-карты</string>
 </resources>

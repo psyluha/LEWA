@@ -117,6 +117,7 @@
     <string name="lockwallpaper_delete_success">обои экрана блокировки удалены</string>
     <string name="theme_loading_more">загрузить еще...</string>
     <string name="theme_loading_more_fail">Загрузка не удалась</string>
+    <string name="theme_loading_more_end">Завершено！</string>
     <string name="modify_wallpaper">Обои</string>
     <string name="theme_name_default">По умолчанию</string>
     <string name="style_appearance_name">lewadefault</string>

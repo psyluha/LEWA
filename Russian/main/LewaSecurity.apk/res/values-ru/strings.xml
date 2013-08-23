@@ -8,7 +8,7 @@
     <string name="app_antitheft">Антивор</string>
     <string name="app_permmanager">Менеджер разрешений</string>
     <string name="app_intercept">Перехватчик</string>
-    <string name="app_netmgr">Межсетевой экран</string>
+    <string name="app_netmgr">Трафик</string>
     <string name="app_push">Менеджер уведомлений</string>
     <string name="first_use1">Не проверен</string>
     <string name="first_use2">Пожалуйста, запустите сканирование прямо сейчас</string>
